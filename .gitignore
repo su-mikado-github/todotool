@@ -1,1 +1,11 @@
+/.bundle
+
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+.DS_Store
+/storage/*
+!/storage/.keep
+
 /mysql/data
